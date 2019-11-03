@@ -12,3 +12,5 @@ Ds3231 Real Time Clock<br>
 HC-06 Bluetooth Module<br>
 Breadboard<br>
 Jumper Cables<br>
+
+![alt text](https://github.com/ioztelli/tempratureLogger/blob/master/Sketch_bb.jpg)
