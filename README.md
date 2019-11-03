@@ -14,3 +14,4 @@ Breadboard<br>
 Jumper Cables<br>
 
 ![alt text](https://github.com/ioztelli/tempratureLogger/blob/master/Sketch_bb.jpg)
+![alt text](https://github.com/ioztelli/tempratureLogger/blob/master/Graph.png)
