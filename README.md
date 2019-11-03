@@ -1,7 +1,7 @@
 # tempratureLogger
 Ardunio Temprature Logger
 
-Temprature  logger and send over bluetooth.
+Temprature  logger,data saves to csv file and send over bluetooth.
 
 Materials
 --------
